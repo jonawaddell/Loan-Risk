@@ -1,0 +1,25 @@
+1.Project Title: Loan Risks
+2. Name of Group: Group 2
+3. Team Members:  Philip Ginand, Nagalakshmi Gidugu, Jonathan Waddell, Ron Daniel
+4. Project Description/Outline:
+ To explore the risk involved in lending and analysing the data from the loans that were approved in the past. 
+
+5. Datasources:
+    csv file from the lendingclub.com. This csv file has about 118,650 rows and about 25 columns
+
+6. Description:      This csv consists data of all the approve loans with the details such as income levels, loan amounts, monthly installments, employeement length information, purpose of the loan, region of the loan.These loans are primarily non secure loans. 
+  
+
+7. Research Questions to Ask:
+    -Loan amount vs. income
+    -Top five type of loans that are approved
+    -Number of loans by state
+    
+    
+8.Rough Breakdown of Tasks:
+   -Clean up the data
+   -Open a Github repository and invite group members
+   -write a code for one question each
+
+Answer Research Questions using visualizations
+
