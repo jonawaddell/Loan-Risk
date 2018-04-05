@@ -815,11 +815,7 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 9600, 36 months,8.90%,A,A5,Aerotek Scientific,3 years,RENT,55000,Not Verified,12/1/2011,Fully Paid,Extra credit loan,MN
 10000, 36 months,16.77%,D,D2,"B Drafting, Inc.",4 years,RENT,35000,Verified,12/1/2011,Fully Paid,Debt Consolidation,CA
 7000, 60 months,15.96%,C,C5,self-employed,3 years,OWN,75000,Not Verified,12/1/2011,Fully Paid,medical,MA
-<<<<<<< HEAD
-11000, 36 months,9.91%,B,B1,texas health-Presbyterian hospital,5 years,MORTGAGE,74000,Not Verified,12/1/2011,Fully Paid,Apr-12,TX
-=======
 11000, 36 months,9.91%,B,B1,texas health-Presbyterian hospital,5 years,MORTGAGE,74000,Not Verified,12/1/2011,Fully Paid,12-Apr,TX
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 13000, 60 months,16.77%,D,D2,Hayes Intermediate School,9 years,MORTGAGE,50000,Not Verified,12/1/2011,Fully Paid,Wedding,OH
 5000, 36 months,7.51%,A,A3,Bank of Oklahoma,8 years,OWN,30000,Not Verified,12/1/2011,Fully Paid,Credit Card Loan,OK
 6000, 36 months,11.71%,B,B3,Coldwell Banker Residential Brokerage,1 year,RENT,37000,Not Verified,12/1/2011,Charged Off,Small Business Loan,DC
@@ -2225,11 +2221,7 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 19800, 60 months,11.71%,B,B3,BART,9 years,MORTGAGE,96000,Not Verified,12/1/2011,Fully Paid,Master Bath,CA
 22000, 60 months,18.25%,D,D5,Alcatel-Lucent,10+ years,MORTGAGE,75000,Verified,12/1/2011,Fully Paid,Refinance loan,TX
 15000, 36 months,13.49%,C,C1,GEO,2 years,RENT,45000,Source Verified,11/1/2011,Fully Paid,Debt Consolidation Loan,CA
-<<<<<<< HEAD
-7200, 36 months,13.49%,C,C1,Gifts By Design,< 1 year,MORTGAGE,114000,Source Verified,11/1/2011,Charged Off,Nov-11,WA
-=======
 7200, 36 months,13.49%,C,C1,Gifts By Design,< 1 year,MORTGAGE,114000,Source Verified,11/1/2011,Charged Off,11-Nov,WA
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 10000, 36 months,16.77%,D,D2,State of California,2 years,MORTGAGE,100000,Source Verified,11/1/2011,Fully Paid,Debt Consolidation,CA
 8000, 36 months,16.29%,D,D1,Santa Clara University,10+ years,RENT,108000,Source Verified,11/1/2011,Fully Paid,Consolidation,CA
 4800, 36 months,8.90%,A,A5,Linde Process Plants,< 1 year,RENT,46000,Source Verified,11/1/2011,Fully Paid,Credit Card Payoff,OK
@@ -3663,11 +3655,7 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 6700, 36 months,10.65%,B,B2,,3 years,MORTGAGE,40000,Verified,11/1/2011,Fully Paid,Consolidation,FL
 7000, 36 months,19.03%,E,E2,US Army,5 years,OWN,46800,Source Verified,11/1/2011,Charged Off,Loan,MI
 9000, 36 months,7.51%,A,A3,UC Berkeley,4 years,RENT,46000,Not Verified,11/1/2011,Fully Paid,BOA Refinance,CA
-<<<<<<< HEAD
-7400, 60 months,17.58%,D,D4,DoD Civilian,10+ years,MORTGAGE,63478,Verified,11/1/2011,Fully Paid,Nov-11,VA
-=======
 7400, 60 months,17.58%,D,D4,DoD Civilian,10+ years,MORTGAGE,63478,Verified,11/1/2011,Fully Paid,11-Nov,VA
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 14500, 60 months,18.64%,E,E1,City of Norfolk,2 years,MORTGAGE,39300,Not Verified,11/1/2011,Charged Off,Fast Track Repayment,VA
 16950, 36 months,18.25%,D,D5,Lakeview Subacute Care Center,2 years,RENT,55000,Verified,11/1/2011,Fully Paid,My Debt,NJ
 3600, 36 months,15.27%,C,C4,Tourico Holidays,2 years,RENT,18000,Not Verified,11/1/2011,Fully Paid,debt_consolidation loan,FL
@@ -4296,11 +4284,6 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 19000, 60 months,11.71%,B,B3,Mono County,7 years,MORTGAGE,76700,Source Verified,11/1/2011,Fully Paid,Digging Out! Debt Consolidation,CA
 23000, 60 months,12.42%,B,B4,Indicon Corporation,10+ years,MORTGAGE,70000,Verified,11/1/2011,Charged Off,debt consilidate,MI
 12175, 60 months,10.65%,B,B2,Domaine Select Wine Estates,10+ years,MORTGAGE,106000,Verified,11/1/2011,Fully Paid,Debt Consolidation,CA
-<<<<<<< HEAD
-loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,title,addr_state
-Z, 60 months,12.39%,C,C1,MANAGEMENT,10+ years,RENT,78000,Source Verified,12/1/2014,Fully Paid,Debt consolidation,VA
-=======
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 10400, 36 months,6.99%,A,A3,Truck Driver Delivery Personel,8 years,MORTGAGE,58000,Not Verified,12/1/2014,Charged Off,Credit card refinancing,CA
 12800, 60 months,17.14%,D,D4,Senior Sales Professional,10+ years,MORTGAGE,125000,Verified,12/1/2014,Current,Car financing,CA
 7650, 36 months,13.66%,C,C3,Technical Specialist,< 1 year,RENT,50000,Source Verified,12/1/2014,Charged Off,Debt consolidation,AZ
@@ -8430,10 +8413,6 @@ Z, 60 months,12.39%,C,C1,MANAGEMENT,10+ years,RENT,78000,Source Verified,12/1/20
 10000, 60 months,8.67%,B,B1,Client Relations Coordinator,2 years,RENT,48950,Not Verified,12/1/2014,Fully Paid,Major purchase,MA
 5000, 36 months,6.49%,A,A2,Vice President,10+ years,MORTGAGE,60000,Not Verified,12/1/2014,Fully Paid,Debt consolidation,VA
 12000, 36 months,6.99%,A,A3,"Director, Financial Operations",10+ years,OWN,150000,Verified,12/1/2014,Fully Paid,Home improvement,NY
-<<<<<<< HEAD
-loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,title,addr_state
-=======
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 24000, 60 months,13.99%,C,C3,IT Deployment Manager,10+ years,RENT,87000,Not Verified,6/1/2016,Current,Debt consolidation,CA
 16000, 60 months,15.59%,C,C5,Senior Account Manager,10+ years,MORTGAGE,82000,Verified,6/1/2016,Charged Off,Debt consolidation,FL
 12000, 60 months,21.49%,D,D5,Correction Officer ,10+ years,RENT,144000,Verified,6/1/2016,Current,,CA
@@ -12675,10 +12654,6 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 1500, 36 months,18.99%,D,D3,Teacher,10+ years,MORTGAGE,54000,Verified,6/1/2016,Current,Moving and relocation,CO
 20000, 60 months,13.99%,C,C3,hvac tech,6 years,MORTGAGE,80000,Source Verified,6/1/2016,Current,Credit card refinancing,MD
 15000, 36 months,17.99%,D,D2,Roastabout,< 1 year,RENT,46000,Verified,6/1/2016,Current,Debt consolidation,NM
-<<<<<<< HEAD
-loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,title,addr_state
-=======
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 12000, 60 months,30.65%,F,F4,Test Engineer,10+ years,RENT,121111,Source Verified,6/1/2017,Current,Home buying,OR
 4000, 36 months,5.32%,A,A1,Regional Manager-Customer Success ,9 years,MORTGAGE,162000,Not Verified,6/1/2017,Current,Home improvement,MI
 6000, 36 months,9.44%,B,B1,Business Operations Group ,1 year,RENT,36000,Not Verified,6/1/2017,Current,Credit card refinancing,IL
@@ -16978,10 +16953,6 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 12550, 36 months,11.99%,B,B5,Director of Sales & Staffing,5 years,MORTGAGE,45700,Source Verified,6/1/2017,Current,Credit card refinancing,IL
 6000, 36 months,9.44%,B,B1,Group Leader,4 years,RENT,47500,Verified,6/1/2017,Current,Other,KY
 18000, 60 months,9.44%,B,B1,Locomotive engineer,10+ years,MORTGAGE,120000,Not Verified,6/1/2017,Current,Credit card refinancing,NV
-<<<<<<< HEAD
-loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,title,addr_state
-=======
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 14000, 36 months,12.85%,B,B4,Assistant Director - Human Resources,4 years,RENT,88000,Not Verified,12/1/2013,Fully Paid,Debt consolidation,NC
 15000, 36 months,14.47%,C,C2,building maint. mgr.,10+ years,RENT,98000,Not Verified,12/1/2013,Fully Paid,pay off,NY
 15000, 36 months,8.90%,A,A5,aircraft maintenance engineer,2 years,MORTGAGE,63000,Not Verified,12/1/2013,Fully Paid,Pay off,FL
@@ -21067,10 +21038,6 @@ loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annu
 35000, 60 months,17.57%,D,D2,Supervisor of IT,10+ years,MORTGAGE,105000,Verified,12/1/2013,Charged Off,Debt Consolidation,PA
 14125, 60 months,16.99%,D,D1,,n/a,MORTGAGE,48000,Verified,12/1/2013,Fully Paid,Debt consolidation,GA
 35000, 36 months,13.98%,C,C1,,10+ years,MORTGAGE,400000,Source Verified,12/1/2013,Fully Paid, line of credit,IL
-<<<<<<< HEAD
-loan_amnt,term,int_rate,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,title,addr_state
-=======
->>>>>>> 35eb88f5f8bdb9b9ec6d223f0c092e346fdc9366
 9000, 36 months,8.49%,B,B1,Office Manager,8 years,MORTGAGE,47000,Not Verified,12/1/2015,Current,Debt consolidation,FL
 17475, 36 months,13.99%,C,C4,Software Testing Analyst,2 years,RENT,39750,Not Verified,12/1/2015,Charged Off,Debt consolidation,IL
 21000, 60 months,13.99%,C,C4,Resident physician,< 1 year,RENT,52000,Source Verified,12/1/2015,Current,Credit card refinancing,OH
